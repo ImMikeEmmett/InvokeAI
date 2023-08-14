@@ -1,4 +1,7 @@
 # InvokeAI
+
+## This is an edit to strip V3 and leave this as the last working version of 2.3.5.post2 Please see "Main" for the current cersion of this project that Uses InvokeAI v3+
+
 ### A Google Colab / InvokeAI project <br>
 This is a tool to use Google colab (https://colab.research.google.com) to run the AI image generation tool: Invokeai (https://invoke-ai.github.io/InvokeAI/). <br>
 This automatically builds itself and can import custom models, It can use to Google drive to save your images. <br>
@@ -31,7 +34,7 @@ Create 4 code boxes and copy / paste each section of "InvokeAI_in_Google_Colab.i
 
 ---
 
-#### Confirmed working for InvokeAI v2.3.5.post2 and V3.0.2
+#### Confirmed working for InvokeAI v2.3.5.post2
 
 Tips Welcome! =^.^= <br>
 ETH: 0x94390B2b3890c768De13e04BaE883F7b222690C2
